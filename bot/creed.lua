@@ -222,6 +222,7 @@ function create_config( )
     "welcome",
     "google",
     "sms",
+    "plugins",
     "Debian_service",
     "sudoers",
     "add_admin",
